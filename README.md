@@ -24,6 +24,7 @@ The platform integrates **multiple specialized AI agents** powered by **FastAPI,
 ### 👥 Members
 
 • **Nirja Patel**
+• **Aniket Bhatia**
 • **Yagna Suthar**
 
 ---
